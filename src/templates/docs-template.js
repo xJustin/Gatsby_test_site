@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Helmet from 'react-helmet';
+import { graphql } from 'gatsby';
+
 class Template extends Component {
   render() {
     const { markdownRemark: page } = this.props.data;
