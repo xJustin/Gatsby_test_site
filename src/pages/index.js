@@ -1,5 +1,5 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Hello Justin!</div>
+  return <div style={{ color: `purple`, fontSize: `72px` }}>Hello Justin!</div>
 }
