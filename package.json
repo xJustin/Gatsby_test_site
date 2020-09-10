@@ -15,8 +15,17 @@
   },
   "dependencies": {
     "gatsby": "^2.24.54",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-plugin-sharp": "^2.6.35",
+    "gatsby-remark-copy-linked-files": "^2.3.14",
+    "gatsby-remark-images": "^3.3.29",
+    "gatsby-remark-prismjs": "^3.5.11",
+    "gatsby-source-filesystem": "^2.3.29",
+    "gatsby-transformer-remark": "^2.8.34",
+    "prismjs": "^1.21.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "prettier": "2.1.1"
